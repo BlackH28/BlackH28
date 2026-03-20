@@ -36,6 +36,13 @@
 
 <br>
 
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackH28/BlackH28/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BlackH28/BlackH28/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BlackH28/BlackH28/output/github-snake-dark.svg" />
+</picture>
+
 <!-- GITHUB STATS -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackH28&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=ffffff&sideNums=ffffff&dates=555555" width="750" />
 
@@ -55,13 +62,6 @@
     </td>
   </tr>
 </table>
-
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackH28/BlackH28/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BlackH28/BlackH28/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/BlackH28/BlackH28/output/github-snake-dark.svg" />
-</picture>
 
 <br>
 
