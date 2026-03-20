@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=220&section=header&text=Ryans&fontSize=80&fontColor=00d4ff&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20%26%20Data%20Science%20Enthusiast&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=Ryans&fontSize=70&fontColor=00d4ff&fontAlignY=38&animation=fadeIn)
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Welcome+to+my+digital+workspace;%3E+Building+the+backend+that+powers+the+future;%3E+Turning+data+into+intelligence" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Backend+Developer+%7C+AI+%26+Data+Science+Enthusiast;%3E+Building+the+backend+that+powers+the+future;%3E+Turning+data+into+intelligence)](https://git.io/typing-svg)
 
 <br>
 
