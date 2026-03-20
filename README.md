@@ -13,22 +13,20 @@
 <!-- ABOUT ME -->
 ## 👨‍💻 About Me
 
-```python
-class Ryans:
-    def __init__(self):
-        self.name = "Ryans"
-        self.role = "Backend Developer & Data Science Enthusiast"
-        self.languages = ["Python", "TypeScript", "Node.js"]
-        self.tools = ["Git", "Linux"]
-        self.interests = ["Backend Systems", "AI/ML", "Data Science", "Automation"]
-        self.currently_learning = ["Machine Learning", "Deep Learning", "API Design"]
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together.")
-
-me = Ryans()
-me.say_hi()
+```bash
+> whoami
+Ryans — Backend Developer & Data Science Enthusiast
 ```
+
+```yaml
+🔭 Currently Working On : Backend Systems & AI Projects
+🌱 Currently Learning   : Machine Learning, Deep Learning, API Design
+💻 Languages            : Python, TypeScript, Node.js
+🛠️ Tools                : Git, Linux
+⚡ Interests            : Backend Systems, AI/ML, Data Science, Automation
+```
+
+> *"Turning data into intelligence, one line of code at a time."*
 
 <!-- TECH STACK -->
 ## 🛠️ Tech Stack
