@@ -15,13 +15,22 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🔭_Working_On-Backend_Systems_&_AI_Projects-0d1117?style=for-the-badge&labelColor=0d1117&color=00d4ff" />
-<br>
-<img src="https://img.shields.io/badge/🌱_Learning-Machine_Learning_|_Deep_Learning_|_API_Design-0d1117?style=for-the-badge&labelColor=0d1117&color=00d4ff" />
-<br>
-<img src="https://img.shields.io/badge/⚡_Interests-AI/ML_|_Data_Science_|_Automation-0d1117?style=for-the-badge&labelColor=0d1117&color=00d4ff" />
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/🔭_Working_On-0d1117?style=for-the-badge&labelColor=0d1117" /></td>
+    <td align="left"><img src="https://img.shields.io/badge/Backend_Systems_&_AI_Projects-00d4ff?style=for-the-badge&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/🌱_Learning-0d1117?style=for-the-badge&labelColor=0d1117" /></td>
+    <td align="left"><img src="https://img.shields.io/badge/Machine_Learning_|_Deep_Learning_|_API_Design-00d4ff?style=for-the-badge&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/⚡_Interests-0d1117?style=for-the-badge&labelColor=0d1117" /></td>
+    <td align="left"><img src="https://img.shields.io/badge/AI/ML_|_Data_Science_|_Automation-00d4ff?style=for-the-badge&logoColor=white" /></td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
 <!-- TECH STACK -->
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
@@ -32,6 +41,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00d4ff)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00d4ff)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00d4ff)
+<br>
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00d4ff)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00d4ff)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)
