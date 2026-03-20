@@ -13,20 +13,25 @@
 <!-- ABOUT ME -->
 ## 👨‍💻 About Me
 
-```bash
-> whoami
-Ryans — Backend Developer & Data Science Enthusiast
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%24+whoami+%E2%86%92+Ryans" alt="whoami" />
+</div>
 
-```yaml
-🔭 Currently Working On : Backend Systems & AI Projects
-🌱 Currently Learning   : Machine Learning, Deep Learning, API Design
-💻 Languages            : Python, TypeScript, Node.js
-🛠️ Tools                : Git, Linux
-⚡ Interests            : Backend Systems, AI/ML, Data Science, Automation
-```
+<br>
 
-> *"Turning data into intelligence, one line of code at a time."*
+<div align="center">
+  <img src="https://img.shields.io/badge/🔭_Working_On-Backend_Systems_&_AI_Projects-0d1117?style=for-the-badge&labelColor=0d1117&color=00d4ff" />
+  <br>
+  <img src="https://img.shields.io/badge/🌱_Learning-Machine_Learning_|_Deep_Learning_|_API_Design-0d1117?style=for-the-badge&labelColor=0d1117&color=00d4ff" />
+  <br>
+  <img src="https://img.shields.io/badge/⚡_Interests-AI/ML_|_Data_Science_|_Automation-0d1117?style=for-the-badge&labelColor=0d1117&color=00d4ff" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=2000&color=555555&center=true&vCenter=true&repeat=true&width=450&height=25&lines=%22Turning+data+into+intelligence%2C+one+line+of+code+at+a+time.%22" alt="quote" />
+</div>
 
 <!-- TECH STACK -->
 ## 🛠️ Tech Stack
