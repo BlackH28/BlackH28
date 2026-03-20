@@ -44,11 +44,11 @@
 </picture>
 
 <!-- GITHUB STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackH28&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=ffffff&sideNums=ffffff&dates=555555" width="750" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackH28&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff" width="95%" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackH28&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackH28&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=ffffff&sideNums=ffffff&dates=555555" width="750" />
 
 <br>
 
