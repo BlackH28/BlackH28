@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=Ryans&fontSize=70&fontColor=00d4ff&fontAlignY=38&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:003545,50:00d4ff,70:003545,100:000000&height=200&section=header&text=Ryans&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
 
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Backend+Developer+%7C+AI+%26+Data+Science+Enthusiast;%3E+Building+the+backend+that+powers+the+future;%3E+Turning+data+into+intelligence)](https://git.io/typing-svg)
@@ -9,14 +9,16 @@
 <br>
 
 <!-- ABOUT ME -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%24+whoami+%E2%86%92+Ryans" alt="whoami" />
+</div>
+
+<div align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00D4FF&center=false&vCenter=true&repeat=true&width=500&height=30&lines=%24+whoami+%E2%86%92+Ryans" alt="whoami" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/🔭_Working_On-Backend_Systems_&_AI_Projects-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
-<br>
 <img src="https://img.shields.io/badge/🌱_Learning-Machine_Learning_·_Deep_Learning_·_API_Design-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
-<br>
 <img src="https://img.shields.io/badge/⚡_Interests-AI%2FML_·_Data_Science_·_Automation-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
 
 <br><br>
@@ -35,6 +37,10 @@
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00d4ff)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=00d4ff)
+
+</div>
+
+<div align="center">
 
 <br>
 
