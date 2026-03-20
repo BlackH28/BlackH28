@@ -11,7 +11,7 @@
 </div>
 
 <!-- ABOUT ME -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
+## 👨‍💻 About Me
 
 ```python
 class Ryans:
