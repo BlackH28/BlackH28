@@ -9,13 +9,11 @@
 <br>
 
 <!-- ABOUT ME -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%24+whoami+%E2%86%92+Ryans" alt="whoami" />
+
 </div>
 
 <div align="left">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00D4FF&center=false&vCenter=true&repeat=true&width=500&height=30&lines=%24+whoami+%E2%86%92+Ryans" alt="whoami" />
-
-<br><br>
 
 <img src="https://img.shields.io/badge/🔭_Working_On-Backend_Systems_&_AI_Projects-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
 <img src="https://img.shields.io/badge/🌱_Learning-Machine_Learning_·_Deep_Learning_·_API_Design-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
