@@ -13,22 +13,13 @@
 
 <br><br>
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="right"><img src="https://img.shields.io/badge/🔭_Working_On-0d1117?style=for-the-badge&labelColor=0d1117" /></td>
-    <td align="left"><img src="https://img.shields.io/badge/Backend_Systems_&_AI_Projects-00d4ff?style=for-the-badge&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="right"><img src="https://img.shields.io/badge/🌱_Learning-0d1117?style=for-the-badge&labelColor=0d1117" /></td>
-    <td align="left"><img src="https://img.shields.io/badge/Machine_Learning_|_Deep_Learning_|_API_Design-00d4ff?style=for-the-badge&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="right"><img src="https://img.shields.io/badge/⚡_Interests-0d1117?style=for-the-badge&labelColor=0d1117" /></td>
-    <td align="left"><img src="https://img.shields.io/badge/AI/ML_|_Data_Science_|_Automation-00d4ff?style=for-the-badge&logoColor=white" /></td>
-  </tr>
-</table>
-
+<img src="https://img.shields.io/badge/🔭_Working_On-Backend_Systems_&_AI_Projects-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
 <br>
+<img src="https://img.shields.io/badge/🌱_Learning-Machine_Learning_·_Deep_Learning_·_API_Design-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
+<br>
+<img src="https://img.shields.io/badge/⚡_Interests-AI%2FML_·_Data_Science_·_Automation-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
+
+<br><br>
 
 <!-- TECH STACK -->
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
